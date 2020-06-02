@@ -14,7 +14,7 @@ role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Biomedical Imaging Group, Erasmus MC
+- name: Biomedical Imaging Group, Erasmus Medical Center
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Neuro-degenerative diseases, Disease progression modeling, Interpretable machine learning.
@@ -28,11 +28,13 @@ education:
   courses:
   - course: PhD in Dementia progression modeling
     institution: Erasmus Medical Center, Netherlands
-    year: ongoing
+    year: 2020
   - course: MS (by research) in Medical image processing
     institution: Indian Institute of Technology, Kharagpur
+    year: 2013
   - course: BTech in Electronics and Communications Engineering
     institution: National Institute of Technology, Trichy
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

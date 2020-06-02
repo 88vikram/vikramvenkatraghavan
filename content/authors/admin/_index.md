@@ -15,7 +15,6 @@ role: Researcher
 # Organizations/Affiliations
 organizations:
 - name: Biomedical Imaging Group, Erasmus MC
-  url: "bigr.nl"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Neuro-degenerative diseases, Disease progression modeling, Interpretable machine learning.

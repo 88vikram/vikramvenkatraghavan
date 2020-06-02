@@ -27,14 +27,14 @@ interests:
 education:
   courses:
   - course: PhD in Dementia progression modeling
-    institution: Erasmus Medical Center, Netherlands
-    year: 2020
-  - course: MS (by research) in Medical image processing
-    institution: Indian Institute of Technology, Kharagpur
-    year: 2013
+    institution: Erasmus Medical Center, Netherlands (ongoing)
+#    year: ongoing
+  - course: MS in Medical image processing
+    institution: Indian Institute of Technology, Kharagpur (2013)
+#    year: 2013
   - course: BTech in Electronics and Communications Engineering
-    institution: National Institute of Technology, Trichy
-    year: 2009
+    institution: National Institute of Technology, Trichy (2009)
+#    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

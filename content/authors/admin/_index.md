@@ -29,10 +29,10 @@ education:
   - course: PhD in Dementia progression modeling
     institution: Erasmus Medical Center, Netherlands (ongoing)
 #    year: ongoing
-  - course: MS in Medical image processing
+  - course: MS in Medical Image Processing
     institution: Indian Institute of Technology, Kharagpur (2013)
 #    year: 2013
-  - course: BTech in Electronics and Communications Engineering
+  - course: BTech in Electronics and Communications
     institution: National Institute of Technology, Trichy (2009)
 #    year: 2009
 
